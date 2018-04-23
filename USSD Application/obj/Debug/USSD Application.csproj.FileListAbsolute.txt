@@ -1,0 +1,32 @@
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\csc.exe
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\vbc.exe
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\VBCSCompiler.exe
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\USSD Application.dll.config
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\USSD Application.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\USSD Application.pdb
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\EntityFramework.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\EntityFramework.SqlServer.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\Newtonsoft.Json.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\System.Net.Http.Formatting.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\System.Web.Http.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\System.Web.Http.WebHost.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\EntityFramework.xml
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\EntityFramework.SqlServer.xml
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\Newtonsoft.Json.xml
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\System.Net.Http.Formatting.xml
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\System.Web.Http.xml
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\bin\System.Web.Http.WebHost.xml
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\obj\Debug\USSD Application.csprojResolveAssemblyReference.cache
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\obj\Debug\USSD Application.dll
+E:\Programming Camp\WebApi Development Training Projects\USSD Application\USSD Application\obj\Debug\USSD Application.pdb
